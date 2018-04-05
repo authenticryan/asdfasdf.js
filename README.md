@@ -1,6 +1,30 @@
 # ASDFASDF.JS
-## -Auto Save Data Form-
-### **The easiest way to not let your users lose their data while filling a form.**
+## This form has been modified to suit the needs for a very recent project. Visit original form at http://jupegarnica.github.io/asdfasdf.js/
+
+
+
+# the form has all necessary porperties. Modify a few aspects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Official documentation starts below
 
 Feel free to submit any [suggestions/issues](https://github.com/jupegarnica/asdfasdf.js/issues) and [contribute](https://github.com/jupegarnica/asdfasdf.js/pulls).
 
